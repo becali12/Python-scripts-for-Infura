@@ -1,4 +1,4 @@
-# Python-scripts-for-Infura
+# Python scripts for Infura
 
 This repository contains scripts I've created for the Support Tips category on the Infura community. 
 
