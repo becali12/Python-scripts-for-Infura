@@ -10,4 +10,6 @@ This repository contains scripts I've created for the Support Tips category on t
 
 **watch_filter.py** - attempt to do the same as above using filters, not working due to an Infura limitation
 
-**send_tx_1559** - can be used to send an eip-1559 transaction
+**send_tx_1559.py** - can be used to send an eip-1559 transaction
+
+**monitorNFT.py** - monitors ERC-721 and ERC-1155 transfers using websockets
