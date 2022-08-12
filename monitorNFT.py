@@ -3,8 +3,8 @@ import asyncio
 import json
 from websockets import connect
 
-infura_http_url = 'https://mainnet.infura.io/v3/e2a5efd9777242168ea53ebc956a8509'
-infura_ws_url = 'wss://mainnet.infura.io/ws/v3/e2a5efd9777242168ea53ebc956a8509'
+infura_http_url = 'https://mainnet.infura.io/v3/YOUR_KEY'
+infura_ws_url = 'wss://mainnet.infura.io/ws/v3/YOUR_KEY'
 
 web3 = Web3(Web3.HTTPProvider(infura_http_url))
 
