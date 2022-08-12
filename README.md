@@ -13,3 +13,5 @@ This repository contains scripts I've created for the Support Tips category on t
 **send_tx_1559.py** - can be used to send an eip-1559 transaction. It's online here: https://docs.infura.io/infura/tutorials/ethereum/send-a-transaction/send-a-transaction-1
 
 **monitorNFT.py** - monitors ERC-721 and ERC-1155 transfers using websockets. It's online here: https://community.infura.io/t/web3-py-how-to-track-nft-erc-721-1155-transfers-and-mints/5624
+
+**NFT_requests.py** - can be used to perform simple read operations regarding NFTs, like fetching Metadata or the NFTs owned by an address.
