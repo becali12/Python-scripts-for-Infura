@@ -15,3 +15,5 @@ This repository contains scripts I've created for the Support Tips category on t
 **monitorNFT.py** - monitors ERC-721 and ERC-1155 transfers using websockets. It's online here: https://community.infura.io/t/web3-py-how-to-track-nft-erc-721-1155-transfers-and-mints/5624
 
 **NFT_requests.py** - can be used to perform simple read operations regarding NFTs, like fetching Metadata or the NFTs owned by an address. It's online here: https://community.infura.io/t/python-how-to-use-the-infura-nft-api/5789
+
+**batch.py** - can be used to perform batch requests with Infura & Python. Live here: https://community.infura.io/t/python-how-to-perform-batch-requests-with-infura/6057
