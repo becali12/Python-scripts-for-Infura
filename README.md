@@ -4,7 +4,7 @@ This repository contains scripts I've created for the Support Tips category on t
 
 
 
-**watch.py** - continuosly searches the latest block for ETH transactions incoming to a specified address. It's online here: https://community.infura.io/t/web3-py-how-to-monitor-ethereum-transfers-to-an-address-in-python/5448
+**watch.py** - continuously searches the latest block for ETH transactions incoming to a specified address. It's online here: https://community.infura.io/t/web3-py-how-to-monitor-ethereum-transfers-to-an-address-in-python/5448
 
 **watch_subscribe.py** - uses websockets to subscribe to the pending transactions pool, then looks for ETH transactions incoming to a specified address. It's online here: https://community.infura.io/t/web3-py-how-to-subscribe-to-pending-ethereum-transactions-in-python/5409
 
